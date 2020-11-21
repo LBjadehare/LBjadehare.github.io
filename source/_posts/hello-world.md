@@ -1,5 +1,5 @@
 ---
-title:Welcome to world!
+Welcome to world!
 ---
 卑优的来由：
 前段时间看见一篇网文：当我心无牵挂的时候，贫穷对我来说只是晚上吃馒头和吃牛排的区别，无损我的快乐。当我爱上一个人的时候，我才深深感到贫穷带来的自卑。遇见最好的你，也遇见最自卑的自己。
@@ -7,10 +7,13 @@ title:Welcome to world!
 
 ## Quick Start
 
-### Create a new post
+### 最真的本性
 
 ``` bash
-$ hexo new "My New Post"
+一个人能坏到什么程度，就看他张狂的时候就知道了，
+同样一个人能好到什么程度，看他困厄的时候就知道了，
+得意的时候看他做什么，困厄的时候看他不做什么，
+从放纵与坚守中所透露出的永远是最真的本性
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
